@@ -5,6 +5,6 @@
   "dependencies": {
     "casperjs": "1.1.1",
     "phantomjs": "2.1.7",
-    "wait-on": "1.4.0"
+    "wait-on": "1.5.2"
   }
 }
