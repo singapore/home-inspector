@@ -12,7 +12,7 @@ If your backend is running on a container called `webapp`, then:
 docker run singapore/home-inspector http://webapp
 ```
 
-Alternatively with Docker Compose:
+Or using Docker Compose:
 
 Define it like:
 
