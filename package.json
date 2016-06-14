@@ -1,0 +1,10 @@
+{
+  "name": "home-inspector",
+  "private": true,
+  "description": "Casper-based link checker for Docker",
+  "dependencies": {
+    "casperjs": "1.1.1",
+    "phantomjs": "1.9.20",
+    "wait-on": "1.4.0"
+  }
+}
