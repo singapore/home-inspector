@@ -1,4 +1,4 @@
-FROM node:5.11
+FROM node:5.12.0
 
 # Create app directory
 RUN mkdir -p /usr/src/home-inspector
