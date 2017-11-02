@@ -4,7 +4,7 @@
   "description": "Casper-based link checker for Docker",
   "dependencies": {
     "casperjs": "1.1.4",
-    "phantomjs-prebuilt": "2.1.14",
+    "phantomjs-prebuilt": "2.1.16",
     "utils": "0.3.1",
     "wait-on": "2.0.2"
   }
