@@ -1,4 +1,4 @@
-FROM node:5.12.0@sha256:3c677337785ca532d7c5ab84f1d200f81e6b6566dfe829dd512816a0c7eb5786
+FROM node:4.9.1@sha256:41d0ad2557ea2a9e57e1a458c1d659e92f601586e07dcffef74c9cef542f6f6e
 
 # Create app directory
 RUN mkdir -p /usr/src/home-inspector
